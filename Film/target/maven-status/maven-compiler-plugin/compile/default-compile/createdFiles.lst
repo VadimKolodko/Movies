@@ -1,0 +1,15 @@
+edu\train\hello\domain\Film.class
+edu\train\hello\controller\UserController.class
+edu\train\hello\config\HiberConfig.class
+edu\train\hello\Service\FilmService.class
+edu\train\hello\Service\UserService.class
+edu\train\hello\domain\User.class
+edu\train\hello\controller\FilmController.class
+edu\train\hello\Service\RateService.class
+edu\train\hello\controller\RootController.class
+edu\train\hello\config\WebConfig.class
+edu\train\hello\domain\SearchSettings.class
+edu\train\hello\Requests.class
+edu\train\hello\config\AppInit.class
+edu\train\hello\domain\Rate.class
+edu\train\hello\controller\RateController.class
